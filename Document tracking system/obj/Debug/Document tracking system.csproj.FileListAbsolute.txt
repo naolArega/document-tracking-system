@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\bin\Debug\Document tracking system.exe.config
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\bin\Debug\Document tracking system.exe
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\bin\Debug\Document tracking system.pdb
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document tracking system.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.Login.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.Properties.Resources.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document tracking system.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document tracking system.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document tracking system.exe
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document tracking system.pdb
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.CreateUserAccount.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.EnteringDocumentRecord.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.Direct.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.ManageUserAccount.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.AboutDocumentTrackingSystem.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.SecretaryWindow.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.OfficerWindow.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.GuestWindow.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.Update_account.resources
+C:\Users\HP\source\repos\Document tracking system\Document tracking system\obj\Debug\Document_tracking_system.PostwomenWindow.resources
