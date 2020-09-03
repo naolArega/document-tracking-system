@@ -7,5 +7,3 @@ instead of time and space because manual organization of document takes much spa
 documents in their catagory .
 
 **note:** for this software to work it requires *.net framework v4.6.1* and also you need to attach the database file
-
-i write this software to manage different documents with multiple people
